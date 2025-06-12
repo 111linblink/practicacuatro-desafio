@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practicacuatro-desafio/static/css/main.e6c13ad2.css",
+    "main.js": "/practicacuatro-desafio/static/js/main.27812ada.js",
+    "static/js/453.cf296ee3.chunk.js": "/practicacuatro-desafio/static/js/453.cf296ee3.chunk.js",
+    "index.html": "/practicacuatro-desafio/index.html",
+    "main.e6c13ad2.css.map": "/practicacuatro-desafio/static/css/main.e6c13ad2.css.map",
+    "main.27812ada.js.map": "/practicacuatro-desafio/static/js/main.27812ada.js.map",
+    "453.cf296ee3.chunk.js.map": "/practicacuatro-desafio/static/js/453.cf296ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27812ada.js"
+  ]
+}
